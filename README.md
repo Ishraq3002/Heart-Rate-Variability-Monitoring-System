@@ -36,7 +36,7 @@ Note: Successive button presses may cause the program to crash; simply rebuild a
 
 **Support:**
 
-For any technical issues, please refer to the [YouTube tutorial]([url](https://youtu.be/XLX6hEDgdv4)) on how to compile, build, and run the HRV Monitoring System using QT Creator on Linux Operating System.
+For any technical issues, please refer to the [YouTube tutorial]([https://youtu.be/XLX6hEDgdv4]) on how to compile, build, and run the HRV Monitoring System using QT Creator on Linux Operating System.
 
 **Acknowledgements**
 

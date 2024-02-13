@@ -31,13 +31,16 @@ To compile, build, and run the HeartWave system in QT Creator on Linux, follow t
 **Note:** Successive button presses may cause the program to crash; simply rebuild and run if this occurs.
 
 ## Resources
+- HeartWave Project Report
 - UML Diagram
 - Use Case Diagram
 
-**Support:**
+## Support
+For any technical issues, please refer to the YouTube tutorial: https://youtu.be/XLX6hEDgdv4 on how to compile, build, and run the HRV Monitoring System using QT Creator on a Linux Operating System.
 
-For any technical issues, please refer to the YouTube tutorial: https://youtu.be/XLX6hEDgdv4 on how to compile, build, and run the HRV Monitoring System using QT Creator on Linux Operating System.
-
-**Acknowledgements**
-
+## Acknowledgements
 Special thanks to everyone who contributed to the development and testing of the HRV Monitoring System.
+
+## Contact
+**Name:** Md Ishraq Tanzim<br />
+**Email:** mdishraqtanzim@cmail.carleton.ca
